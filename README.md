@@ -1,3 +1,5 @@
+DO NOT INSTALL - WIP
+
 # Pen Annotate — a KOReader plugin for stylus ink annotations
 
 Draw freehand ink annotations directly on document pages in
